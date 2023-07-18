@@ -1,4 +1,4 @@
-# [espressoUItest][published url]
+# [Espresso UI Test][published url]
 ## Developer: [Sopan Ahmed][instructor url]
 
 Android Espresso UI Test

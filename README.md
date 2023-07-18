@@ -1,4 +1,4 @@
-# [currencyConversion][published url]
+# [espressoUItest][published url]
 ## Developer: [Sopan Ahmed][instructor url]
 
 Android Espresso UI Test
